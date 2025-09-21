@@ -18,8 +18,8 @@ To run this project locally:
 git clone https://github.com/pantalois/TascaS2.04.Mongodb_queries.git
 
 # 2. Import the JSON file into your MongoDB instance
-#    Use the JSON file restaurants.json
+Use the JSON file restaurants.json
 
 # 3. Open MongoDB Shell
-#    Navigate to the database restaurants and execute the queries from the queries.JSON file in the Mongodb Shell
-#    You can run them one by one and explore the results
+Navigate to the database restaurants and execute the queries from the queries.JSON file in the Mongodb Shell
+You can run them one by one and explore the results
